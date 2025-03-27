@@ -1,4 +1,4 @@
-🚀 AI Chatbot with FastAPI & Streamlit
+##🚀 AI Chatbot with FastAPI & Streamlit
 This repository contains an AI chatbot powered by Groq's LLaMA 3.3-70B and other models. It provides an interactive chatbot using FastAPI for the backend and Streamlit for the frontend.
 
 📌 Features
